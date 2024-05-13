@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 const jobSchema = new mongoose.Schema({
   title: {
     type: String,
-    required: [true, "Please provide a title."],
+    required: [true, "Please provide the title."],
     minLength: [3, "Title must contain at least 3 Characters!"],
     maxLength: [30, "Title cannot exceed 30 Characters!"],
   },
