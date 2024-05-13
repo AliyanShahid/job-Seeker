@@ -6,7 +6,7 @@ export const dbConnection = () => {
       dbName: "jOB_SEEKER",
     })
     .then(() => {
-      console.log("Lets Connect to database.");
+      console.log("Connect to database.");
     })
     .catch((err) => {
       console.log(`Some Error occured. ${err}`);
