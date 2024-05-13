@@ -21,6 +21,7 @@ Employer can Post a job Employer will fill out a form and can post a job and the
 Job Seekers can apply for a job that an employer has posted and can see all the jobs posted by the employer.
 # How to Run Application
 1- Create a .env File in the Backend folder and provide all the details below 
+<<<<<<< HEAD
 * CLOUDINARY_NAME = "your Cloudinary Code"
 * CLOUDINARY_API_KEY= "Cloudinary API Key"
 * CLOUDINARY_SECRET = Cloudinary Secret Key 
@@ -30,6 +31,17 @@ Job Seekers can apply for a job that an employer has posted and can see all the 
 * JWT_SECRET_KEY = Create any JWT secret Key
 * JWT_EXPIRES= Secret key Expires time i.e 1d or 2d.
 * COOKIE_EXPIRE= cookie expiration time i.e 5,6 etc
+=======
+CLOUDINARY_NAME = "your Cloudinary Code"
+CLOUDINARY_API_KEY= "Cloudinary API Key"
+CLOUDINARY_SECRET = Cloudinary Secret Key 
+"You can find all the above details on Cloudinary Website it is used to Add files and you can extract files from here"
+FRONTEND= "Where you want to run your application mostly is 5713"
+DB = "Mongo DB URL"
+JWT_SECRET_KEY = Create any JWT secret Key
+JWT_EXPIRES= Secret key Expires time i.e 1d or 2d.
+COOKIE_EXPIRE= cookie expiration time i.e 5,6 etc
+>>>>>>> afbd47934160665055de2d251997a3c23d802854
 2- After that open Terminal Write cd Backend
 3- Then enter the command npm run dev
 4-Then open Second Terminal write cd Frontend
