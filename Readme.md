@@ -1,9 +1,10 @@
 # Project Title - JobSeeker Portal
 ## Group members
-* Susmita
-* Aliyan
-* Ema
+* Susmita Giri
+* Aliyan Shahid Satti
+* Aima Khan
 * Harshitha
+* Muhammad Zain
 
 ##Our Project aims to make the job 
 search process simple, fun, and ultimately successful for all parties involved. The Project objective are: 
