@@ -42,7 +42,11 @@ JWT_EXPIRES= Secret key Expires time i.e 1d or 2d.
 COOKIE_EXPIRE= cookie expiration time i.e 5,6 etc
 
 2- After that open Terminal Write cd Backend
+
 3- Then enter the command npm run dev
+
 4-Then open Second Terminal write cd Frontend
-5- Then enter command npm run dev 
+
+5- Then enter command npm run dev
+
 6- Now open the URL that will show in the terminal on Google and run the application.
