@@ -15,6 +15,7 @@ const HowItWorks = () => {
               <p>Create Account</p>
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Consequuntur, culpa. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 Consequuntur, culpa.
               </p>
             </div>
