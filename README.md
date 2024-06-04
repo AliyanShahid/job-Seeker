@@ -39,7 +39,7 @@ FRONTEND= "Where you want to run your application mostly is 5713"
 DB = "Mongo DB URL"
 JWT_SECRET_KEY = Create any JWT secret Key
 JWT_EXPIRES= Secret key Expires time i.e 1d or 2d.
-COOKIE_EXPIRE= cookie expiration time i.e 5,6 etc
+COOKIE_EXPIRE= cookie expiration time i.e 5,6 etc.
 
 2- After that open Terminal Write cd Backend
 
