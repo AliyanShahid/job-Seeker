@@ -24,6 +24,7 @@ const HowItWorks = () => {
               <p>Find a Job/Post a Job</p>
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Consequuntur, culpa. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 Consequuntur, culpa.
               </p>
             </div>
@@ -32,6 +33,7 @@ const HowItWorks = () => {
               <p>Apply For Job/Recruit Suitable Candidates</p>
               <p>
                 Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                Consequuntur, culpa. Lorem, ipsum dolor sit amet consectetur adipisicing elit.
                 Consequuntur, culpa.
               </p>
             </div>
